@@ -1,6 +1,6 @@
 <h1>Hii 👋 I'm Swapnil Sanjay Surve</h1>
 # 💫 About Me:
-About Me :<br>🔭 I’m currently working on Web Developing<br>👯 I’m looking to collaborate on Web based Project<br>🌱 I’m currently learning Reactjs and Node Js
+<br>🔭 I’m currently working on Web Developing<br>👯 I’m looking to collaborate on Web based Project<br>🌱 I’m currently learning Reactjs and Node Js
 
 
 ## 🌐 Socials:
